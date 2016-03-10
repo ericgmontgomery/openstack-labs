@@ -22,7 +22,7 @@ title = "FIX"
   - The default retries before YUM advances to the next mirror is **10 (TEN!!!)** retries, let's make that 1:
 Copy this text into the files directory and name the file "yum.conf"
 
-2. In your home directory, make a new directory called "files"
+2. In your home directory, make a new directory called "files" (****)
 
 3. copy /etc/yum.conf to /~/files
 
